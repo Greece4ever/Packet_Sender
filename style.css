@@ -1,0 +1,62 @@
+
+* {
+    height: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.body {
+    height: 100%;
+    background-size: 100% 100%;
+}
+
+.menu {
+    font-size: large;
+    font-weight: bold;
+    background-color: green;
+}
+
+.menu h1 {
+    text-align: center;
+    color: #ffffff;
+
+}
+
+
+.slide h1 {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+
+.slide {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 20px;  
+    font-weight: normal;
+    font-size: medium;
+    background-color: yellowgreen;
+    border-radius: 30px;
+}
+
+
+
+
+.slide .hello img {
+    width:100%;
+    height:auto;
+    border: 5px solid green;
+
+} 
+
+
+.Copyright {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color:#ffffff;
+    text-align: center;  
+}
+
